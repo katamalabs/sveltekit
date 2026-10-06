@@ -45,6 +45,8 @@ Zero-config PWA Plugin for SvelteKit
 
 ## 📦 Install
 
+> From v2.0.0, `@vite-pwa/sveltekit` requires **SvelteKit 3**, **Vite 8** and **`vite-plugin-pwa` 2**: use v1 for SvelteKit 1 and 2. The plugin options are unchanged, and `kit.base`, `kit.outDir`, `kit.assets` and `kit.appDir` now default to your SvelteKit configuration.
+
 > From v0.3.0, `@vite-pwa/sveltekit` supports SvelteKit 2 (should also support SvelteKit 1).
 
 > From v0.2.0, `@vite-pwa/sveltekit` requires **SvelteKit 1.3.1 or above**.
